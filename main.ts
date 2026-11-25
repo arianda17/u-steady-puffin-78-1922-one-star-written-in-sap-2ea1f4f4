@@ -1,0 +1,1 @@
+console.log("One star — my human waters me like a rumor, forgets me like a password, then calls my yellow leaves 'a vibe.' I'm not wilting, I'm documenting for the review.");
